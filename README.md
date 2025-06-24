@@ -71,4 +71,5 @@ stock-price-prediction/
 
 📧 Contact
 Janhavi Gurav - 4janhavig@gmail.com
+
 Project Link: https://github.com/yaarrjanhavi/stock-price-prediction
