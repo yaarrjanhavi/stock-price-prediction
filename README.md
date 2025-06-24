@@ -69,7 +69,6 @@ stock-price-prediction/
 ├── requirements.txt    # Dependency list  
 └── README.md           # Project documentation  
 
-📧 Contact
-Janhavi Gurav - 4janhavig@gmail.com
-
+## 📧 Contact
+Janhavi Gurav - 4janhavig@gmail.com  
 Project Link: https://github.com/yaarrjanhavi/stock-price-prediction
