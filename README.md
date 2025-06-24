@@ -41,12 +41,14 @@ An end-to-end machine learning pipeline for stock price forecasting using:
 1. Clone the repository:
 ```bash
   git clone https://github.com/yourusername/stock-price-prediction.git
-  cd stock-price-prediction\
+  cd stock-price-prediction
+```
 
 
 2. Install dependencies 
 ```bash
-  pip install -r requirements.txt\
+  pip install -r requirements.txt
+```
 
 ## 🚀 Usage
 To train the model:
