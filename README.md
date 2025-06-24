@@ -43,6 +43,7 @@ git clone https://github.com/yourusername/stock-price-prediction.git
 cd stock-price-prediction
 
 2. Install dependencies:
+```bash
 pip install -r requirements.txt
 
 ## 🚀 Usage
