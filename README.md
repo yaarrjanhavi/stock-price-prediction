@@ -11,8 +11,6 @@
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
-- [Results](#-results)
-- [License](#-license)
 - [Contact](#-contact)
 
 ## 🌟 Project Overview
@@ -58,7 +56,7 @@ To launch the web app:
 streamlit run src/app.py
 
 ## 📂 Project Structure
-stock-price-prediction/
+stock-price-prediction  
 ├── data\               # Sample datasets  
 ├── notebooks\          # Jupyter notebooks for EDA  
 ├── src\  
