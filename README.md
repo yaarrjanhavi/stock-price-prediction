@@ -59,15 +59,15 @@ streamlit run src/app.py
 
 ## 📂 Project Structure
 stock-price-prediction/
-├── data\               # Sample datasets
-├── notebooks\          # Jupyter notebooks for EDA
-├── src\
-│   ├── train.py        # Model training script
-│   ├── app.py          # Streamlit application
-│   └── utils.py        # Helper functions
-├── models\             # Saved model weights
-├── requirements.txt    # Dependency list
-└── README.md           # Project documentation
+├── data\               # Sample datasets  
+├── notebooks\          # Jupyter notebooks for EDA  
+├── src\  
+│   ├── train.py        # Model training script  
+│   ├── app.py          # Streamlit application  
+│   └── utils.py        # Helper functions  
+├── models\             # Saved model weights  
+├── requirements.txt    # Dependency list  
+└── README.md           # Project documentation  
 
 📧 Contact
 Janhavi Gurav - 4janhavig@gmail.com
